@@ -1,0 +1,12 @@
+{
+  "name": "dropeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mathis",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "raraph84-lib": "^2.16.4"
+  }
+}

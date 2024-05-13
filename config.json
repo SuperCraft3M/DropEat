@@ -1,0 +1,10 @@
+{
+    "apiPort": 8080,
+    "password": "MOT DE PASSE POUR AJOUTER DES INFOS",
+    "database": {
+        "host": "HOST",
+        "user": "DropEat",
+        "password": "MDP DATABASE",
+        "database": "DropEat"
+    }
+}
